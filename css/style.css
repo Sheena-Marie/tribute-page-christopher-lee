@@ -1,0 +1,32 @@
+body {
+  background-color: #FFF4DD;
+}
+
+figcaption {
+  opacity: 1%
+}
+
+.smaller-image {
+  width: 75%;
+}
+
+.thin-black-border{
+  border-color: #022A2A;
+  border-width: 2px;
+  border-style: solid;
+}
+
+h1 {
+  font-family: "Lato";
+  color: #734D00;
+}
+
+h3 {
+  font-family: "Quicksand";
+  color: #A87000;
+  opacity: 2%
+}
+
+p {
+  font-family: "Istok Web"
+}
